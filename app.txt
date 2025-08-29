@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Line 1: from feature-b
+=======
+Line 1: from feature-a
+>>>>>>> feature-a
