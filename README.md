@@ -107,3 +107,9 @@ git push -u origin feature-b
 3. Open a Pull Request for one branch, merge it on web, then open PR for the other — GitHub will show conflict and web editor can also resolve it (or you resolve locally and push).
 
 Test: git remote -v and GitHub Actions/PR shows commit history.
+
+---
+
+📘 **Read the full step-by-step blog here:**  
+[Version Control with Git: Branching and Merge Conflict Resolution](https://visheshblog.hashnode.dev/day-66-version-control-with-git-branching-and-merge-conflict-resolution)
+
